@@ -1,4 +1,4 @@
-# SD-and-mask
+# Social Distancing
 Social distancing and mask detection
 
 ### How to run
@@ -9,3 +9,6 @@ Social distancing and mask detection
     - `python3 main.py` </br>
     - `python3 main.py -i test.mp4 -o out.avi`
 
+### Results
+![](out.gif)
+PS: The faces were too small in this video for mask detection
