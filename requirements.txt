@@ -1,0 +1,5 @@
+numpy
+opencv-python
+scipy
+imutils
+tensorflow_serving_api==2.2.0
